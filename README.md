@@ -1,6 +1,6 @@
 # Nekto.me-autoskip
 
-**СКРИПТ ДЛЯ nekto.me**
+**Скрипт для Nekto.me**
 
 ## Описание
 
